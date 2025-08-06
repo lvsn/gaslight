@@ -1,0 +1,34 @@
+name: gaslight
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.6
+  - plyfile=0.8.1
+  - python=3.9
+  - pip=22.3.1
+  - pytorch=2.4.1
+  - torchaudio=2.4.1
+  - torchvision=0.19.1
+  - pytorch-cuda=12.4
+  - tqdm
+  - pip:
+    - 3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization
+    - 3DGS/gaussiansplattingInstantSplat/submodules/simple-knn
+    - 3DGS/360-diff-gaussian-rasterization
+    - omegaconf
+    - opencv-python
+    - natsort
+    - matplotlib
+    - pyntcloud
+    - pandas
+    - kornia
+    - skylibs
+    - pytorch-lightning==2.1
+    - diffusers==0.27.2
+    - huggingface_hub==0.24.7
+    - transformers==4.36.2
+    - openexr
+    - einops

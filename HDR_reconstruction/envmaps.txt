@@ -1,0 +1,3 @@
+/root/polyhaven/hdri/brown_photostudio_02_1k.exr
+/root/polyhaven/hdri/rogland_moonlit_night_1k.exr
+/root/polyhaven/hdri/doesntexist.exr

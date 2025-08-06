@@ -1,0 +1,11 @@
+# ninja log v5
+1	3852	1747361075417648486	/root/SplatDuster/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/forward.o	4ee54e497621f31b
+0	3950	1747361075513649989	/root/SplatDuster/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/backward.o	d30ff56cb53a8b9e
+2	12091	1747361083644777305	/root/SplatDuster/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/rasterizer_impl.o	54780d6d7efb0c01
+2	18429	1747361089978876485	/root/SplatDuster/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/ext.o	ddba4a98ce649022
+3	41010	1747361112544229815	/root/SplatDuster/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/rasterize_points.o	c5d359729e9e4280
+0	13969	1754434315218104754	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/forward.o	b60194f4fa2a4866
+0	13973	1754434315218104754	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/backward.o	f46bdd54d00b066
+1	19869	1754434321111216108	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/rasterizer_impl.o	137c2fb571315f05
+2	24166	1754434325404297227	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/ext.o	7a59a07c9d230d4f
+3	46639	1754434347850721345	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/rasterize_points.o	f19f565e29eceded

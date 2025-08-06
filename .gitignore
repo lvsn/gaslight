@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+HDR_reconstruction/checkpoints/
+HDR_reconstruction/models

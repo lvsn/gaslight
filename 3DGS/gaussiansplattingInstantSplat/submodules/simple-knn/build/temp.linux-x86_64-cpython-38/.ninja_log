@@ -1,0 +1,4 @@
+# ninja log v5
+1	13746	1754434364873042963	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	d41c2d29d661116c
+0	18185	1754434369307126738	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	fbf4ca0b925b3625
+2	41324	1754434392420563416	/root/gaslight/3DGS/gaussiansplattingInstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	60db18780f1af938
