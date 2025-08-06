@@ -2,6 +2,3 @@
 	path = 3DGS/vggt
 	url = https://github.com/facebookresearch/vggt.git
 
-[submodule "3DGS/360-diff-gaussian-rasterization"]
-	path = 3DGS/360-diff-gaussian-rasterization
-	url = https://github.com/inuex35/360-diff-gaussian-rasterization
