@@ -61,6 +61,12 @@ By default, only negative EVs will be predicted until no more pixel are saturate
 python makeHDR.py --predict_ev_plus --images_dir ../3DGS/example/hall/images --out_dir ../3DGS/example/hall/hdr --ckpt_path checkpoints/gaslight_weights.ckpt --save_stacks
 ```
 
+### Evalutation Datasets
+
+- SI-HDR: We share our reconstructions for the clip_95 images of the [SI-HDR dataset](https://www.repository.cam.ac.uk/items/c02ccdde-db20-4acd-8941-7816ef6b7dc7) using our gaslight method [here](https://hdrdb-public.s3.valeria.science/gaslight/si-hdr_gaslight.tar.gz). We found some HDR images to be saturated [list](assets/saturated_si_hdr.txt)
+
+- BtP-HDR: We adapt the Theta Dataset from [Beyond the Pixel](https://lvsn.github.io/beyondthepixel/) to obtain a HDR dataset with `reference` HDR images, `input` LDR images directly produced by the camera and `reconstructions` from publicly available methods ([ExpandNet](https://github.com/dmarnerides/hdr-expandnet), [HDRCNN](https://github.com/gabrieleilertsen/hdrcnn), [MaskHDR](https://github.com/marcelsan/Deep-HdrReconstruction), [SingleHDR](https://github.com/alex04072000/SingleHDR)) as well as our own gaslight. The full dataset is available [here](https://hdrdb-public.s3.valeria.science/gaslight/BtP-hdr.tar.gz)
+
 ## 3D Pipeline
 
 The HDR 3DGS pipeline can be separated into three steps
