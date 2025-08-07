@@ -39,9 +39,9 @@ The following table compares the scores of the provided weights in comparaison t
 | ExpandNet | 0.0187 | 24.7158 | 2.0958 |
 | Exposure Diff | 0.0264 | 23.7384 | 2.5183 |
 | Ours (paper) | 0.0131 | 25.3895 | 2.1721 |
-| [Ours (public)](hdrdb-public.s3.valeria.science/gaslight/gaslight_weights.ckpt) | 0.0163 | 24.9968 | 2.2447 |
+| [Ours (public)](https://hdrdb-public.s3.valeria.science/gaslight/gaslight_weights.ckpt) | 0.0163 | 24.9968 | 2.2447 |
 
-The [weights](hdrdb-public.s3.valeria.science/gaslight/gaslight_weights.ckpt) should be moved to the `HDR_reconstruction/checkpoints` directory.
+The [weights](https://hdrdb-public.s3.valeria.science/gaslight/gaslight_weights.ckpt) should be moved to the `HDR_reconstruction/checkpoints` directory.
 
 ## HDR Reconstruction
 
